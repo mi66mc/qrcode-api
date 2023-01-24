@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="https://qrcapi.vercel.app/qr" alt="Logo">
+<img align="left" width="80" height="80" src="https://i.imgur.com/fo4S1Vq.png" alt="Logo">
 <h1>QRCode API</h1>
 QRCode API is an API to create QR Codes easily and with colors!
 
@@ -13,4 +13,4 @@ The URL contains the following parameters:
 
 Result:
 
-<img src="https://qrcapi.vercel.app/qr?content=https://discord.com/&color=orange&background=%232679ff">
+<img src="https://i.imgur.com/wGuZZ6a.png">
