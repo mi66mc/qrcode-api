@@ -7,6 +7,7 @@ The URL contains the following parameters:
 - `content`: The content of the QR Code.
 - `color`: The color of the QR Code.
 - `background`: The background color of the QR Code.
+- `size`: The size of the QR Code.
 
 ### Example:
 `GET https://qrcapi.vercel.app/qr?content=https://discord.com/&color=orange&background=%232679ff`
